@@ -51,7 +51,7 @@ df = pd.read_excel(excel_file, sheet_name=sheet_name)
 json_structure = {
     "configs": [
         {
-            "$schema": "test",
+            "$schema": "https://code.siemens.com//SimaticEdge-And-Cloudapps/slmp-connector/sourcecode/sim-edge-webserver/SouthBoundAPIs/schema/mitsubishi-iqr-1.0.0.json",
             "config": {
                 "connections": [
                     {
