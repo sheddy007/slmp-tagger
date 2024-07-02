@@ -1,9 +1,5 @@
 # SLMP Tagger :tada:
 
-## Table of Content
-
-[[_TOC_]]
-
 ## Project Overview
 
 ## Project Description
@@ -24,7 +20,7 @@ Excel file (.xlsx) should have the following data column and format:
 - `acquisition_cycle`
 
 <div style="text-align:center">
-  ![Alt Text](./images/tagSheet.png)
+  ![Alt Text](./tagSheet.png)
 </div>
 
 ## Setup Instructions
@@ -35,9 +31,7 @@ First, clone the repository to your local machine. You can use the following com
 HTTPS
 
 ```sh
-git clone https://code.siemens.com/eh-prg-dev/slmp-tagger.git
-```
-
+git clone git@github.com:sheddy007/slmp-tagger.git
 SSH
 
 ```sh
