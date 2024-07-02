@@ -20,7 +20,7 @@ Excel file (.xlsx) should have the following data column and format:
 - `acquisition_cycle`
 
 <div style="text-align:center">
-  ![Alt Text](./tagSheet.png)
+  ![Alt Text](tagSheet.png)
 </div>
 
 ## Setup Instructions
@@ -32,11 +32,12 @@ HTTPS
 
 ```sh
 git clone git@github.com:sheddy007/slmp-tagger.git
+```
+
 SSH
 
 ```sh
 git clone git@code.siemens.com:eh-prg-dev/slmp-tagger.git
-
 ```
 
 Navigate to the project directory:
